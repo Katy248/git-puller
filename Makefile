@@ -8,3 +8,6 @@ check:
 
 fmt:
 	shfmt $(FMT_FLAGS) -w $(SRC_FILES)
+
+install:
+	cp ./git-puller.sh /usr/bin/git-puller
