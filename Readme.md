@@ -14,3 +14,14 @@ git clone https://github.com/Katy248/git-puller
 cd git-puller
 make install
 ```
+
+## Configuration
+
+Write path to local repositories to `~/.config/git-puller/dir.list` and run `git-puller`
+
+Exaxmple `~/.config/git-puller/dir.list`:
+
+```list
+~/.config/vim/
+~/.config/gtk-4.0
+```
