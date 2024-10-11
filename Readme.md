@@ -12,7 +12,7 @@ Shell script for pulling multiple repositories on your PC
 ```
 git clone https://github.com/Katy248/git-puller
 cd git-puller
-make install
+sudo make install
 ```
 
 ## Configuration

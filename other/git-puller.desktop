@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Git puller
+Exec=/usr/bin/git-puller
+Terminal=true
+Categories=Utility
